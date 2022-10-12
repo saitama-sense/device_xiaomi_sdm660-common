@@ -331,4 +331,7 @@
 
     <!-- The max scale for the wallpaper when it's zoomed in -->
     <item name="config_wallpaperMaxScale" format="float" type="dimen">1</item>
+
+    <!-- Screen off delay -->
+    <integer name="config_screen_off_delay">0</integer>
 </resources>
